@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Teclado Mecánico RGB",
+    "descripcion": "Teclado gamer retroiluminado con switches azules.",
+    "precio": 49990,
+    "stock": 30,
+    "imagenUrl": "tecladomecanicorgb"
+  },
+  {
+    "id": 2,
+    "nombre": "Cámara 4K Compacta",
+    "descripcion": "Cámara portátil de alta resolución con estabilización óptica.",
+    "precio": 159990,
+    "stock": 10,
+    "imagenUrl": "camara"
+  },
+  {
+    "id": 3,
+    "nombre": "Smartwatch Deportivo",
+    "descripcion": "Reloj inteligente con monitoreo cardíaco y pasos.",
+    "precio": 39990,
+    "stock": 15,
+    "imagenUrl": "relojdeportivo"
+  },
+  {
+    "id": 4,
+    "nombre": "Auriculares Bluetooth",
+    "descripcion": "Auriculares inalámbricos con micrófono y cancelación de ruido.",
+    "precio": 29990,
+    "stock": 25,
+    "imagenUrl": "audifonos"
+  }
+]

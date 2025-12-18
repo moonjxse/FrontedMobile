@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Administrador",
+    "email": "admin@tiendapp.cl",
+    "password": "1234",
+    "role": "ADMIN"
+  },
+  {
+    "id": 2,
+    "name": "Vendedor Pro",
+    "email": "vendedor@tiendapp.cl",
+    "password": "1234",
+    "role": "VENDEDOR"
+  },
+  {
+    "id": 3,
+    "name": "Repartidor 1",
+    "email": "repartidor@tiendapp.cl",
+    "password": "1234",
+    "role": "REPARTIDOR"
+  },
+  {
+    "id": 4,
+    "name": "Cliente Demo",
+    "email": "cliente@tiendapp.cl",
+    "password": "1234",
+    "role": "CLIENTE"
+  }
+]
